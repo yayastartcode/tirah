@@ -7,7 +7,7 @@ const facilities = [
   { icon: Bath, name: 'Toilet Kamar' },
   { icon: Utensils, name: 'Kitchen Set Tiap Kamar' },
   { icon: Shirt, name: 'Lemari Pakaian' },
-  { icon: CupSoda, name: 'Mini Coffee' },
+  { icon: CupSoda, name: 'Mini Cafe' },
   { icon: Car, name: 'Parkiran Luas' },
   { icon: Fish, name: 'Kolam Ikan Estetik' },
   { icon: ShoppingBag, name: 'Layanan Laundry' },
