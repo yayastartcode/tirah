@@ -37,7 +37,7 @@ function BookingForm() {
       `*Kode Kamar Tersedia:* ${roomCodes}%0A%0A` +
       `Apakah kamar tersedia untuk tanggal tersebut? Terima kasih.`
     
-    const whatsappUrl = `https://wa.me/6281234567890?text=${message}`
+    const whatsappUrl = `https://wa.me/6281281120093?text=${message}`
     window.open(whatsappUrl, '_blank')
   }
 
